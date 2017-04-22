@@ -1,9 +1,15 @@
-<scheme name="BlueNilesh" version="141" parent_scheme="Default">
+<scheme name="BlueNilesh" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Menlo" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Andale Mono" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </font>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="CARET_COLOR" value="bbbbbb" />
@@ -392,7 +398,7 @@
     </option>
     <option name="DEPRECATED_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="d25252" />
+        <option name="FOREGROUND" value="c79d8a" />
         <option name="EFFECT_COLOR" value="d25252" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -513,6 +519,11 @@
         <option name="FOREGROUND" value="660e7a" />
       </value>
     </option>
+    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
+    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
+    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
     <option name="LOG_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ffffff" />
@@ -562,6 +573,7 @@
         <option name="FOREGROUND" value="efc090" />
       </value>
     </option>
+    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
     <option name="STATIC_METHOD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="d9e577" />
@@ -637,5 +649,6 @@
         <option name="FOREGROUND" value="bc3f3c" />
       </value>
     </option>
+    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
   </attributes>
 </scheme>

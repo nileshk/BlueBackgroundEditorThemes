@@ -14,6 +14,8 @@ And if you loved Word Perfect 5.1 for DOS back in the day, you'll appreciate it.
 
 <img src="Emacs/emacs-blue.png"/>
 
+This uses [Blue Mood theme](https://github.com/emacs-jp/replace-colorthemes/blob/master/blue-mood-theme.el)
+
 ## IntelliJ IDEA and other JetBrains IDEs ##
 
 <img src="IntellijIDEA/intellij-idea-blue.png"/>

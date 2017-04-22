@@ -9,7 +9,7 @@ Blue backgrounds work well on:
 * with **color temperature shifting** enabled via [f.lux](https://justgetflux.com/) or Apple's [Night Shift](https://support.apple.com/en-us/HT207513)
 * Day and night.  It's not too bright and it's not too dark.
 
-And if you loved Word Perfect 5.1 for DOS back in the day, you'll appreciate it.
+And if you loved Word Perfect 5.1 for DOS and/or the various DOS IDE/editors back in the day, you'll appreciate it.
 
 ## Emacs ##
 

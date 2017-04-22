@@ -6,7 +6,7 @@ Blue backgrounds work well on:
 
 * **matte** and **glossy** displays (you don't see your reflection on glossy displays)
 * **dark** and **light** editor/IDE themes
-* with color temperature shifting enabled via [f.lux](https://justgetflux.com/) or Apple's [Night Shift](https://support.apple.com/en-us/HT207513).  So if you use these, it looks good both day and night.
+* with **color temperature shifting** enabled via [f.lux](https://justgetflux.com/) or Apple's [Night Shift](https://support.apple.com/en-us/HT207513).  So if you use these, it looks good both day and night.
 
 And if you loved Word Perfect 5.1 for DOS back in the day, you'll appreciate it.
 

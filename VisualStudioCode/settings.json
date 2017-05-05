@@ -2,7 +2,7 @@
     "window.zoomLevel": 0,
     "editor.fontSize": 14,
     "workbench.colorTheme": "OceanDeep",
-    "workbench.experimental.colorCustomizations": {
-        "editorBackground": "#025EA3"
+    "workbench.colorCustomizations": {
+        "editor.background": "#025EA3"
     }
 }

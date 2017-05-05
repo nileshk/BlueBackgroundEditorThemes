@@ -31,6 +31,6 @@ This uses [Blue Mood theme](https://github.com/emacs-jp/replace-colorthemes/blob
 
 <img src="VisualStudioCode/vscode-blue.png"/>
 
-**NOTE:** This is *buggy*, and there are strange artifacts.  But if you prefer blue backgrounds, it's better than not having it.
+My configuration only sets the background color, and uses a theme on top of this.  I found [OceanDeep](https://marketplace.visualstudio.com/items?itemName=pierrenel.theme-oceandeep) to work well with this, but it's worth trying other themes.
 
-VSCode has one setting to set the background, which is separate from theme configuration, and various themes will work well with this.  I found [OceanDeep](https://marketplace.visualstudio.com/items?itemName=pierrenel.theme-oceandeep) to work well with this, but I may try other themes.  Note that the setting is experimental and will probably go away in a future release when they add custom themes.
+[VS Code 1.12](https://code.visualstudio.com/updates/v1_12) finalized the color settings official and they are now non-experimental (the settings are different than 1.11 and I have updated to reflect this).  There is also a new [theme generator](https://github.com/Tyriar/vscode-theme-generator) that I have not tried out yet.
